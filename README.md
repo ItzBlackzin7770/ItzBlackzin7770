@@ -4,10 +4,6 @@
 
 ###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ItzBlackzin7770&label=Visualizações&color=blueviolet" alt="Profile views" />
-</p>
-
 ###
 
 <div data-importer="socials" align="center">
