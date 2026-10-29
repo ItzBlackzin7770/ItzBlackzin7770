@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://github.com/ItzBlackzin7770/ItzBlackzin7770/blob/main/README.md"/>
+  <img height="100%" src="./assets/LinuxBannerGIF.gif" alt="Banner"/>
 </div>
 
 ###
